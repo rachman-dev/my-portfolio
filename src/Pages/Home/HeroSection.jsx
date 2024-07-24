@@ -12,11 +12,11 @@ export default function HeroSection() {
 						Developer
 					</h1>
 					<p className="hero--section-description">
-						Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-						<br /> Dolorum, quas. Amet soluta assumenda cum?
+					I create seamless, user-friendly web applications using the MERN stack.
+						<br /> Explore my projects and discover my passion for web development.
 					</p>
 				</div>
-				<button className="btn btn-primary">Get In Touch</button>
+				<button className="btn btn-primary" onClick={() => window.open('https://drive.google.com/file/d/1mNE70E0wMO7j6ld2fhe0TygyBX8XEdbI/view?usp=sharing', '_blank', 'noopener,noreferrer')}>My Resume</button>
 			</div>
 			<div className="hero--section--img">
 				<img src="./img/rachman.png" alt="Hero Section" />

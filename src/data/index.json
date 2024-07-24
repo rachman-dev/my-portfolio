@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I create responsive, intuitive interfaces using React.js, HTML, CSS, and JavaScript, focusing on engaging and functional web experiences."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I build scalable server-side solutions with Node.js, Express.js, and MongoDB, ensuring efficient and seamless application functionality."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I design intuitive, user-centered interfaces that blend aesthetics with functionality to enhance user interaction and satisfaction."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I use Webflow to build responsive, visually striking websites with clean designs and smooth user experiences, focusing on custom layouts and performance optimization."
     }
   ],
   "portfolio": [

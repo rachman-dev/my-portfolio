@@ -11,15 +11,10 @@ export default function AboutMe() {
 					{/* <p className="section--title">About</p> */}
 					<h2 className="skills-section--heading">About Me</h2>
 					<p className="hero--section-description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-						officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-						recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-						tempora numquam sint odit optio.
+					Hey, I’m Rachman Hafez. As a full stack developer, I bring ideas to life using HTML, CSS, JavaScript, React.js, Node.js, and more. I craft sleek UIs, build robust backends, and thrive on challenges. Coding is my way of storytelling, and I excel in both solo and collaborative projects. Always evolving and ready for new tech adventures.
 					</p>
 					<p className="hero--section-description">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-						officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-						recusandae?
+					Let’s turn your digital dreams into reality!
 					</p>
 				</div>
 			</div>

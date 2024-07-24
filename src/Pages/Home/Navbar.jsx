@@ -41,7 +41,7 @@ function Navbar() {
 				<img
 					className="logo_rachaman"
 					src="./img/rachman_logo.png"
-					alt="Logoipsum"
+					alt="Rachman"
 					style={{ width: "250px", cursor: "pointer" }}
 					onClick={reloadPage}
 				/>

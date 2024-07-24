@@ -9,7 +9,7 @@ function Footer() {
 		<footer className="footer--container">
 			<div className="footer--link--container">
 				<div>
-					<img src="./img/logo.svg" alt="Logoipsum" />
+					<img src="./img/logo.svg" alt="Rachman" />
 				</div>
 				<div className="footer--items">
 					<ul>
